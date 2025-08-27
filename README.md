@@ -72,8 +72,8 @@ I aim to **create intuitive, efficient, and visually engaging web applications**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Xorla01&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Xorla01&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xorla01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xorla01&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
